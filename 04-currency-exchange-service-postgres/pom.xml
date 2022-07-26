@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.in28minutes.microservices</groupId>
-	<artifactId>04-aws-currency-exchange-service-mysql</artifactId>
+	<artifactId>04-aws-currency-exchange-service-postgresql</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>aws-currency-exchange-service-mysql</name>
+	<name>aws-currency-exchange-service-postgresql</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
